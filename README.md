@@ -20,7 +20,7 @@
 - Area wise cheap and expensive restaurant and their average price.
 - Number of restaurant for each type of cuisine.
 # Dashboard
-![image](https://user-images.githubusercontent.com/111194246/200556316-37c59952-e070-4d7a-9772-8b75b9818f97.png)
+![image](https://github.com/Anmol2205DA/Zomato-Food-delivery/blob/main/Screenshot%20(29).png)
 ## Creation of ML model 
 - After scrapping the data we have created two logistic regression models 
 - Through which we predict the suitable location to open a restaurant in Bangalore 
