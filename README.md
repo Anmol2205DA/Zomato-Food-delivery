@@ -20,7 +20,7 @@
 - Area wise cheap and expensive restaurant and their average price.
 - Number of restaurant for each type of cuisine.
 # Dashboard
-![image](https://github.com/Anmol2205DA/images/blob/main/Screenshot%20(29).png)
+![image](https://github.com/Anmol2205DA/images/blob/main/Screenshot%20(31).png)
 ## Creation of ML model 
 - After scrapping the data we have created two logistic regression models 
 - Through which we predict the suitable location to open a restaurant in Bangalore 
@@ -31,7 +31,6 @@
 #### Here we take three inputs from the user which are as follows:
 - Cuisine
 - Location
-- Preferred Price for one
 #### Output we get are as follows:
 - Average price for 1 for
 - Popular cuisine for that area
