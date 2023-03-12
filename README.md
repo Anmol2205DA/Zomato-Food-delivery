@@ -5,7 +5,7 @@
 - SQL
 - Microsoft Excel
 - Powerpoint
-- - Machine Learning Models
+- Machine Learning Models
 ### Data Analysis with Zomato Bangalore data
 #### Dataset has been Scrapped using python libraries Selenium and BeautifulSoup, overall 500+ restaurants data has been scrapped for Bangalore city.
 #### The dataset contains 2 dataset files i.e:- zomato_table_1.csv and zomato_table_2.csv. These files used for Zomato analysis.The third dataset final_zomato has been used to make recommendation model.
@@ -20,25 +20,23 @@
 # Dashboard
 ![image](https://github.com/Anmol2205DA/images/blob/main/Screenshot%20(31).png)
 ## Creation of Recommendation model 
-- After scrapping the data we have created two recommendation model 
-- Through which we predict the suitable location to open a restaurant in Bangalore 
+- After scrapping the data we have created a recommendation model. 
+- Through which we predict the suitable location to open a restaurant in Bangalore.
 - what should be the 'price for one' to open a kitchen
-- Cuisine our client should sell according to famous cuisines served in Bangalore
+- Cuisine our client should sell according to famous cuisines served in Bangalore.
 - Also made Machine learning models to predict price for one at a particular location and for a particular cuisine.
 ## Created the Dynamic webpage with the help of HTML CSS 
 #### Here we take three inputs from the user which are as follows:
 - Cuisine
 - Location
 #### Output we get are as follows:
-- Average price for 1 for
+- Average price for one in this area
 - Popular cuisine for that area
-- Most popular Restaurant and Cuisines served by that restaurant
-- Popular restaurant whwo serves clients Cuisine
-- Recommended price with respect to location
-- Recommended location with respect to cuisine an d price for one
+- Most popular Restaurant in this area
+- Popular restaurant whwo serves same cuisine as you provided.
+- Cuisine served by most popular restaurant in this area
 ## Webpage
-![image](https://user-images.githubusercontent.com/111194246/202413327-00d980fb-8f63-4708-93b2-f0daf2f7989a.png)
-
+![image](https://github.com/Anmol2205DA/images/blob/main/Screenshot%20(32).png)
 
 
 
