@@ -18,14 +18,13 @@
 - Area wise cheap and expensive restaurant and their average price.
 - Number of restaurant for each type of cuisine.
 # Dashboard
-![image](https://github.com/Anmol2205DA/images/blob/main/Screenshot%20(31).png)
+![image](https://github.com/Anmol2205DA/images/blob/main/Screenshot%20(35).png)
 ## Phase-2 - Creation of Recommendation model 
 - After completion of phase 1 we created a recommendation model. 
 - Through which we predict the suitable location to open a restaurant in Bangalore.
 - what should be the 'price for one' to open a kitchen
 - Cuisine our client should sell according to famous cuisines served in Bangalore.
 - Also made Machine learning models to predict price for one at a particular location and for a particular cuisine.
-## Created the Dynamic webpage with the help of HTML CSS 
 #### Here we take two inputs from the user which are as follows:
 - Cuisine
 - Location
