@@ -36,7 +36,8 @@
 - Popular restaurant who serves same cuisine as you provided.
 - Cuisine served by most popular restaurant in this area
 ## Webpage
-![image](https://github.com/Anmol2205DA/images/blob/main/Screenshot%20(32).png)
+![image](https://github.com/Anmol2205DA/Zomato-Food-delivery/assets/126354821/ef4baf69-2c48-4c6a-905a-660b0f3afb3d)
+
 
 
 
